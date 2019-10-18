@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 businesses = []
 
+#git_test
 
 def generate_dummy_data():
     towns = ['Coleraine', 'Banbridge', 'Belfast', 'Lisburn', 'Balllymena', 'Derry', 'Newry', 'Enniskillen', 'Omagh',
